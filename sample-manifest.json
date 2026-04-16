@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e104fa84-e475-4476-9d8f-a7f744245071",
+  "id_short": 718836,
+  "published_at": "2026-04-16T19:04:37Z",
+  "repo_name": "all-restaurants-in-montgomery-metro-alabama-us-sample-718836",
+  "sample_asset_name": "beamstation_718836_restaurants-us-montgomeryal_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/718836/beamstation_718836_restaurants-us-montgomeryal_SAMPLE_DIST.csv",
+  "sample_records": 97,
+  "sample_sha256": "9e866b7ba1536a27638e6d57a5e32280604aee137dba3617c358c9d89e35c82f",
+  "sample_size_bytes": 341825,
+  "total_records": 395
+}
