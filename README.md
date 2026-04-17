@@ -9,9 +9,9 @@
 | Dataset ID | `718836` |
 | Location | Montgomery, AL |
 | Category | Restaurants |
-| Full dataset size | 395 records |
-| Free sample size | 97 records (24.56%) |
-| Last export | 2026-03-31T16:38:24.278220+00:00 |
+| Full dataset size | 976 records |
+| Free sample size | 97 records (9.94%) |
+| Last export | 2026-04-14T17:31:38.059034+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-montgomery-metro-alabama-us-sample-718836/releases/download/sample-latest/beamstation_718836_restaurants-us-montgomeryal_SAMPLE_DIST.csv) |
 
 ## What is in this sample
