@@ -1,6 +1,6 @@
 # All Restaurants in Montgomery (Metro), Alabama, US
 
-> Free BeamStation sample export with 97 rows and masked direct-contact fields.
+> Free BeamStation sample export with 78 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `718836` |
 | Location | Montgomery, AL |
 | Category | Restaurants |
-| Full dataset size | 976 records |
-| Free sample size | 97 records (9.94%) |
-| Last export | 2026-04-14T17:31:38.059034+00:00 |
+| Full dataset size | 786 records |
+| Free sample size | 78 records (9.92%) |
+| Last export | 2026-04-21T19:12:56.666919+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-montgomery-metro-alabama-us-sample-718836/releases/download/sample-latest/beamstation_718836_restaurants-us-montgomeryal_SAMPLE_DIST.csv) |
 
 ## What is in this sample
